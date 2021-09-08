@@ -16,13 +16,13 @@
 - [Higher-Order Functions](#higher-order-functions)
 
 #### <a name="how-js-works"></a> Como funciona o JS
-O google chrome usa a engine v8 (open source escrita em c++) . A engine v8 serve para interpretar um código javascript. 
+O google chrome usa a engine v8 . A engine v8 serve para interpretar um código javascript. 
 A v8 foi projetada para aumentar a perfomance de execução do JS dentro de navegadores, ele compila código JS em código de maquina ao invés de usar um interpretador. Ele compila de js para código de máquina em tempo de execução, implementando um compilador JIT (just in time).
 
 ```JS => c++ => Assembly => Machine Code ```
 
 #### <a name="what-is-js"></a> O que é o JS
-Javascript é como nós chamamos a linguaguem (mas isso é o trademark da Oracle), o nome oficial da linguagem é ECMAScript (ES) é a abreviação. 
+Javascript é como nós chamamos a linguaguem, o nome oficial da linguagem é ECMAScript (ES) é a abreviação. 
 
 
 fontes:
